@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "eee" > /tmp/txt
-echo "successful"
+echo "this is  test successful"
